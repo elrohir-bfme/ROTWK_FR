@@ -1,0 +1,10 @@
+{
+  "name": "rotwk_fr",
+  "version": "1.0.0",
+  "description": "Patch FR de l'Avènement du Roi Sorcier 2.02",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Elrohir",
+  "license": "ISC"
+}
