@@ -52987,29 +52987,23 @@ Color:Violet
 END
 
 RULE:CommandPointFactor
-//"Facteur de Points de Commandement"
 "Facteur de Points de Commandement & Modes de Jeu"
 END
 
 VALUE:ThirdX
-//"1/3X"
 "Équipes Aléatoires"
 END
 
 VALUE:HalfX
-//"1/2X"
 "Chaos Déchaîné"
 END
 
 VALUE:8X
 "8X"
-//"Double Multiplicateur de Points de Commandement"
 END
 
 VALUE:100X
 "Points de Pouvoir Limités"
-//"100X"
-//"Démarrage avec Points de Commandement Illimités"
 END
 
 GUI:Corsair_Discount
